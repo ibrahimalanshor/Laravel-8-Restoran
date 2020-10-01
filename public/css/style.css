@@ -1,0 +1,10 @@
+.list-group-item .qty{
+	font-size: 10px !important;
+	padding: 2px 4px !important;
+}
+.toolbar{
+	font-size: inherit !important;
+}
+.table-box{
+	height: 50px;
+}

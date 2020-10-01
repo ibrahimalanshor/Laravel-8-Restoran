@@ -1,0 +1,1 @@
+<div {{ $attributes->merge(['class' => 'alert alert-'.$type]) }}><span class="message">{{ $message }}</span>{!! $dismiss ? '<button class="close" data-dismiss="alert">&times;</button>' : '' !!}</div>
